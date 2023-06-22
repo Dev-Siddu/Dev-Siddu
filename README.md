@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Siddarood @Dev-Siddu
+- 👀 I’m interested in DotNet Full Stack Web Development
+- 🌱 I’m currently learning DotNet Full Stack Web Development
