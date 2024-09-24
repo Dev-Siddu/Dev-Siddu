@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Siddarood @Dev-Siddu
-- 👀 I’m interested in DotNet FrameWork.
+- 👀 I’m interested in DotNet Core.
 - 🌱 Currently I'm learning DotNet Full Stack Web Development.
